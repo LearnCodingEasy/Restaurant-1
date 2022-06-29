@@ -15,7 +15,7 @@
 [View](https://boxicons.com/)
 
 # Plugins
-* Swioer
+* Swiper
 [View](https://swiperjs.com/)
 
 # Api
