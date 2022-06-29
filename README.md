@@ -22,7 +22,7 @@
 * themealdb
 [View](https://www.themealdb.com/api.php)
 # Website
-Link [View](https://learncodingeasy.github.io/Food-1/)
+Link [View](https://learncodingeasy.github.io/Restaurant-1/)
 
 # Preview
-![This is an image](https://raw.githubusercontent.com/learncodingeasy/Food-1/main/images/1920.jpg)
+![This is an image](https://raw.githubusercontent.com/learncodingeasy/Restaurant-1/main/images/1920.jpg)
