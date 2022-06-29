@@ -1,5 +1,5 @@
 # Food
-* Responsive Food Website 🍲
+* Responsive Restaurant Website 🍲
 # Language
 1. Html
 2. Css
