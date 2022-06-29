@@ -104,16 +104,17 @@ function showFood(Foods) {
     const { strMeal, strMealThumb } = food;
     let foodEl = document.createElement("div");
     foodEl.classList.add("swiper-slide");
-    foodEl.style.cssText = `display: flex;
+    foodEl.style.cssText = `
+    display: flex;
     justify-content: center; 
     align-items: center;
     padding-top: 3rem;
     height: 100%;`;
     foodEl.innerHTML = `
-        <div class="home-data">
-            <h1 class="home-title">${strMeal}</h1>
-            <h2 class="home-subtitle">Try The Best Food Of <br /> The Week</h2>
-            <a href="" class="button">View More</a>
+    <div class="home-data">
+        <h1 class="home-title">${strMeal}</h1>
+        <h2 class="home-subtitle">Try The Best Food Of <br /> The Week</h2>
+        <a href="" class="button">View More</a>
     </div>
     <img
         src="${strMealThumb}"
